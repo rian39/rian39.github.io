@@ -2,13 +2,12 @@
 title: Adrian Mackenzie 
 email: a.mackenzie[at]lancaster.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-    Some recent research outputs and drafts ... 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "http://rian39.github.io" # the base hostname & protocol for your site
 
-twitter_username: rian39
+twitter_username: rian2011ad
 github_username: rian39
 
 # Build settings
