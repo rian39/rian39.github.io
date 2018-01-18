@@ -7,6 +7,8 @@ This page might take a while to load, as it generates a bibliography directly ou
 
 # All
 <script src="http://bibbase.org/show?bib=https://github.com/rian39/ref_bibs/mackenzie.bib&jsonp=1"></script> 
+
+# All 2
 <script src="https://bibbase.org/show?bib=https://rian39.github.io/mackenzie.bib&jsonp=1"></script>
 
 ## Books
