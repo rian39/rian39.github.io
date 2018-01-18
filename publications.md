@@ -6,7 +6,7 @@ layout: page
 This page might take a while to load, as it generates a bibliography directly out of my Zotero library. Not fast, but usually the most up-to-date list of my publications.
 
 # All
-<script src="http://bibbase.org/show?bib=https://github.com/rian39/ref_bibs/blob/master/mackenzie.bib&jsonp=1" ></script> 
+<script src="http://bibbase.org/show?bib=https://github.com/rian39/ref_bibs/blob/master/mackenzie.bib&jsonp=1"></script> 
 
 ## Books
 
